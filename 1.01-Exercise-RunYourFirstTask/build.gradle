@@ -3,7 +3,7 @@
 Welcome to the first exercise in ud867! Have fun, and remember that you can
 always check out the solution.gradle file for help!
 
-In this simple Gradle build script we have defined a single task named
+In this simple Gradle build script we have defined a single  task named
 "hello". As you can see, the task's action simply prints the string "Hello
 World" to the standard output.
 
@@ -25,6 +25,6 @@ task hello {
     description "Hey student! Run this one :D"
     group "Our demo"
     doLast {
-        println "Hello World!"
+        println "Hello Shiwam!"
     }
 }
